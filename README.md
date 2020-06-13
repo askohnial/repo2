@@ -1,2 +1,2 @@
-# repo2 now it should be working!! holla, its working june13..
+# check if it is working
 #docker
