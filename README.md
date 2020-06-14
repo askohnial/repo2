@@ -1,2 +1,2 @@
-#creating docker image at jenkins server   date 14 june take 1
+#creating docker image at jenkins server   date 14 june take 2
 #pushing the image to dockerhub registry akhil5001/on repo
