@@ -3,3 +3,4 @@
 #now just trying to copy this file to docker server
 #no default exclude option used
 #index.git is used now 
+#git-half-init is directly used now
