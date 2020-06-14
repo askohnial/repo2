@@ -9,3 +9,5 @@
 #scp caps P option used now 
 #added docker command to docker server to build image and push image to dockerhub registry
 #image push to dockerhub and pull , run container too
+#credentials to the dockeradmin to dockerhub registry(this is the reason for denied access) (login form thi user to dockerhub)
+
