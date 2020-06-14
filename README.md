@@ -5,3 +5,4 @@
 #index.git is used now 
 #git-half-init is directly used now
 #now mv commmand is removed, mkdir /jenkins/dock added 
+#now using scp in build
