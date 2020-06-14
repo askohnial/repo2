@@ -12,3 +12,4 @@
 #credentials to the dockeradmin to dockerhub registry(this is the reason for denied access) (login form thi user to dockerhub)
 #
 ##########################------------This should be visible now................
+#Testing docker latest tag and 
