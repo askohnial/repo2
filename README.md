@@ -4,3 +4,4 @@
 #no default exclude option used
 #index.git is used now 
 #git-half-init is directly used now
+#now mv commmand is removed, mkdir /jenkins/dock added 
