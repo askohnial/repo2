@@ -18,3 +18,4 @@
 ##### DEEPU ########### container stopped and removed...
 branched checking
 check june 20
+check wheathr the trigger auto or manual
