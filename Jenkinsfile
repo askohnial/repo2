@@ -2,6 +2,18 @@ pipeline {
     agent any
 
     stages {
+        stage('Checkout SCM') {
+            steps {
+                checkout([
+                 $class: 'GitSCM',
+                 branches: [[name: 'master']],
+                 userRemoteConfigs: [[
+                    url: 'askohnial@github.com/askohnial/repo2.git',
+                    credentialsId: '',
+                 ]]
+                ])
+            }
+        }
         stage('Build') {
             steps {
                 echo 'Building..'
