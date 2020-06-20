@@ -8,8 +8,8 @@ pipeline {
                  $class: 'GitSCM',
                  branches: [[name: 'master']],
                  userRemoteConfigs: [[
-                    url: 'askohnial@github.com/askohnial/repo2.git',
-                    credentialsId: '',
+                    url: 'askohnial:@kh!L@5001@github.com/askohnial/repo2.git',
+                    *//credentialsId: '',
                  ]]
                 ])
             }
